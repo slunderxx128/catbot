@@ -1,0 +1,9 @@
+{
+    "API_KEY": "A1B2C3D4E5F6G7H8",
+    "API_SECRET": "ZXCVBNMASDFGHJKL",
+    "ACCESS_TOKEN": "TOKEN123456789",
+    "ACCESS_SECRET": "SECRET987654321",
+    "MAIN_EMAIL": "info@personalmail.com",
+    "OTHER_EMAILS": ["support@something.org", "hello@workspace.net"],
+    "POSSIBLE_PASSWORDS": ["alpha123", "beta456", "gamma789"]
+}
